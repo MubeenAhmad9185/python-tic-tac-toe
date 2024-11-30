@@ -45,3 +45,49 @@ X|X|
  |O| 
 -----
  | | 
+
+## Contributing
+
+We welcome contributions to this project! If you'd like to contribute, please follow these steps:
+
+1. **Fork the repository**:
+   - Click the "Fork" button at the top of the repository page to create a personal copy of the repository.
+
+2. **Create a new branch**:
+   - Create a new branch for your changes:
+     ```bash
+     git checkout -b feature-name
+     ```
+
+3. **Make your changes**:
+   - Implement the changes you want to contribute.
+
+4. **Commit your changes**:
+   - Commit your changes with a clear and concise message:
+     ```bash
+     git commit -m "Describe your changes"
+     ```
+
+5. **Push your changes**:
+   - Push your changes to your forked repository:
+     ```bash
+     git push origin feature-name
+     ```
+
+6. **Create a pull request**:
+   - Go to the original repository and create a pull request with a description of what you've done.
+
+### Code of Conduct
+Please note that we expect all contributors to follow the project's code of conduct. Be respectful and considerate in all interactions.
+
+Thank you for your contributions!
+
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+
+
+
+ 
